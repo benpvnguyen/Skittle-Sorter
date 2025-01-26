@@ -1,0 +1,5 @@
+/Users/bennguyen/Projects/SkittleSorter/SkittleSorter/obj/Debug/net7.0/SkittleSorter.csproj.AssemblyReference.cache
+/Users/bennguyen/Projects/SkittleSorter/SkittleSorter/obj/Debug/net7.0/SkittleSorter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bennguyen/Projects/SkittleSorter/SkittleSorter/obj/Debug/net7.0/SkittleSorter.AssemblyInfoInputs.cache
+/Users/bennguyen/Projects/SkittleSorter/SkittleSorter/obj/Debug/net7.0/SkittleSorter.AssemblyInfo.cs
+/Users/bennguyen/Projects/SkittleSorter/SkittleSorter/obj/Debug/net7.0/SkittleSorter.csproj.CoreCompileInputs.cache
